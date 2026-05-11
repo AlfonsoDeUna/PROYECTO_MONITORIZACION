@@ -1,0 +1,12 @@
+# TITULO PRINCIPAL
+## TITULO 2
+AFLKJASFDÑLKJASDÑLKFJAÑSLDKJFASDF
+
+**EJEMPLO NEGRITA**
+
+```yaml
+ejemplo:
+   ejemplo1: -ip
+
+```
+
